@@ -8,5 +8,15 @@ The V1.0 release contains the project equipped with 8 cameras set to render the 
 Suggested camera tour rotation:
 Overview  Forge  Forge Shelves  Forge Workbench  Armoury Armoury Table  Armour 1  Armour 2.
 
+
+Flame particle systems only work in tandem with the fluid cache data
+links to google drive and one drive with v1.3 project and fluid cache folder can be found below
+
+DMU One Drive link:
+https://demontfortuniversity-my.sharepoint.com/:u:/g/personal/p2729452_my365_dmu_ac_uk/EXaI5cRG_25AsnrRAae8ykYBw9bhCZMrI4bVooFIPVSXLg?e=v53D8R 
+
+Google Drive link:
+https://drive.google.com/file/d/1Qf3oV3dDeIG4QRUV-FoQ2spC4ApUTlY0/view?usp=sharing 
+
 ![image](https://github.com/user-attachments/assets/f84fba5c-16a4-469e-9e80-52c26523a8f3)
 ![image](https://github.com/user-attachments/assets/d564e44a-7906-4a15-bfb6-b861dfbb7917)
